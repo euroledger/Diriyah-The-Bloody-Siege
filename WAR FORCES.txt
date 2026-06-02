@@ -1,0 +1,123 @@
+OPPOSING FORCES – 
+NAJD CAMPAIGN 1816-18
+OTTOMAN STRENGTH POINTS - ARMY IN THE FIELD
+TypeCountersReal-world meaningInfantry4~4,000 Nizam troopsAuxiliaries6~4,000 irregularsCavalry1~500Artillery1~6–12 guns
+ Engineer/Sapper 1
+
+OTTOMAN STRENGTH POINTS – DEFENDING SUPPLY LINES
+Auxiliaries2~1,500 irregularsCavalry2~1,000 OTTOMAN REINFORCEMENTS
+2 Infantry 
+2 Auxiliaries 
+1 Cavalry 
+1 Engineer 
+WAHHABI STRENGH POINTS
+Unit TypeCountersScaleApprox menGarrison Infantry2750 each~1,500Militia41,000 each~3,000Tribal Fighters11,000 each~1,000
+
+WAHHABI REINFORCEMENTS
+2 Tribal Fighters 
+3 Militia 
+1 Garrison Infantry 
+
+SUPPLY STATUS EFFECTS
+Max Wahhabi Units Allowed Supply Lines Box:
+Tribal Fighters2
+Militia1
+SECURE - no effect, all units supplied, flip any reduced units to full strength
+THREATENED - Flip artillery to reduced side (2), Flip Infantry to reduced side (1)
+CUT - Place out of supply marker. All units reduced, place "OUT OF SUPPLY" on army (current space where units are)
+SUPPLY LINE BATTLE DRM
+For each two locations occupied by the Ottomans, the Wahhabis receive one right column shift on the Supply Line Battle table
+
+Ottomans control Mawiyya -> 1 shift right
+Ottomans control Unaizah/Buraidah -> 2 shift right
+Ottomans control Shaqra -> 3 shift right
+
+BATTLES
+Each side rolls a die on the Battle Table, using the column relating to their total strengh (in Strength Points). Result is number of enemy SPs lost. Apply hits simulataneously. 
+
+
+
+
+
+HEJAZ CAMPAIGN 1811 – 1815
+MAP TRACKS
+
+Northern Track
+
+Yanbu - Badr - Wadi Al Safra – Brabbas** – Medina* - ON TO NAJD
+
+Southern Track
+N Jeddah (Hub) -  Mecca - Taif – Byssel - Turabah -  Bisha**+ – ON TO NAJD
+
+Coastal/Maritime Track
+S Jeddah (Hub) -  Al Lith -  Al Qunfudhah** -  Abha (Coastal)+ – Khamis Mushait - ON TO NAJD
+* Connected via Desert Path – implications for redeployment
+** Penalty to Ottomans for disruption to supply lines
++ Recruitment Hubs
+LOCATION CATEGORIES
+Northern Track
+LocationClassificationHistorical ReasoningYanbuPort TownThe primary landing point for Ottoman reinforcements and heavy siege guns.BadrTownA strategic desert crossroads and transit hub.Wadi Al SafraMountain PassA narrow, rugged valley; site of the 1812 Ottoman defeat (The Battle of Judaydah).BrabbasTownA smaller settlement on the approach to the holy city.MedinaFortified TownProtected by high walls and a citadel; it required a formal siege to recapture in 1812.
+1811
+* Yanbu secured
+Early 1812
+* Badr secured
+* Defeat at Wadi al-Safra
+Late 1812
+* Wadi al-Safra recovered
+* Medina captured (Dec 1812)
+1812–1813
+* Jeddah secured
+* Mecca shifts ? Ottoman control
+1813
+* Taif captured
+1813–1814
+* Turabah / Bisha region contested
+
+
+Southern/HighlandTrack
+LocationClassificationHistorical ReasoningMeccaTownOpen city geographically, but the political "prize" of the campaign.TaifMountain FortressLocated in the high Sarawat Mountains; it served as a cool-climate retreat and a defensive wall.BysselTownAn agricultural settlement on the plains, used as a massive military camp in 1815.TurabahFortified TownKnown for its thick palm groves and defensive walls that repulsed the first Ottoman attacks.RanyahTownA classic desert oasis and transit point for tribal warriors.BishaTownThe "Capital of the South"—a wealthy agricultural hub and tribal center.
+Coastal Track
+LocationClassificationKey Historical DetailJeddahFortified PortThe supreme logistics hub; the "invincible" base of operations.Al LithPort TownSmall harbor used for flanking maneuvers.Al QunfudhahPort TownSite of a major 1814 disaster where Ottomans lost their water supply.AsirMountain Fortress
+
+The rugged "Highland Citadel" of the southern tribes.OTTOMAN STRENGTH POINTS - ARMY IN THE FIELD
+Yanbu
+* 5 SP Ottoman Regulars 
+* 1 Artillery 
+* Supply Source (Northern Track only) 
+
+Jeddah
+
+SIEGE OF DIRIYAH MAP
+North Axis
+? Wadi Approach
+? Ghasiba
+? Turaif (Citadel) 
+West Axis (Across Wadi Hanifa)
+? Al-Bujairi
+? Wadi Hanifah
+? Turaif OR Samhan 
+South Axis
+? Southern Farms
+? Southern Quarter
+? Samhan
+? Turaif 
+East Axis
+? Eastern Outskirts
+? Ghasiba AND/OR Samhan
+? Turaif 
+
+
+Location
+StrengthWadi Approach1Ghasiba3Turaif3Al-Bujairi2Southern Farms1Southern Quarter2Samhan3Eastern Outskirts1
+DIE ROLLLOCATION TO RAID1Jeddah*2Al Lith3Al Qunfudhah4Abha5Khamis Mushait6None
+
+
+
+
+** If Al Lith and Al Qunfudhah Wahhabi controlled
+
+
+Emir Of Mecca (Ghalib ibn Musa'id) Defection
+
+If, at the beginning of any turn, the number of SPs in Mecca is below XX, the Emir of Mecca defects to the Ottomans, flip the counter over and retreat all Wahhabi forces to Taif. Reduce Morale by 1. (When Mecca is occupied there is a further reduction in Morale of 2).
+
