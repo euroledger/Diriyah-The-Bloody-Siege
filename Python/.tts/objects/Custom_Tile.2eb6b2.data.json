@@ -1,0 +1,57 @@
+{
+  "GUID": "2eb6b2",
+  "Name": "Custom_Tile",
+  "Transform": {
+    "posX": 16.7189331,
+    "posY": 0.9600003,
+    "posZ": 7.38537455,
+    "rotX": -5.83244855e-7,
+    "rotY": 180,
+    "rotZ": -5.55354347e-7,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Nickname": "",
+  "Description": "",
+  "GMNotes": "",
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "ColorDiffuse": {
+    "r": 1,
+    "g": 1,
+    "b": 1
+  },
+  "LayoutGroupSortIndex": 0,
+  "Value": 0,
+  "Locked": true,
+  "Grid": true,
+  "Snap": true,
+  "IgnoreFoW": false,
+  "MeasureMovement": false,
+  "DragSelectable": true,
+  "Autoraise": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": false,
+  "Hands": false,
+  "CustomImage": {
+    "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/17742555966049690656/7B0C7B2F2E34BC1D7B311A42AACC30DD68B6A313/",
+    "ImageSecondaryURL": "",
+    "ImageScalar": 1,
+    "WidthScale": 0,
+    "CustomTile": {
+      "Type": 0,
+      "Thickness": 0.2,
+      "Stackable": false,
+      "Stretch": true
+    }
+  },
+  "LuaScript": "deckGUID = \"386d00\"\r\n\r\nfunction onLoad()\r\nself.setLock(true)\r\ncreateButtons()\r\nend\r\n\r\nfunction createButtons()\r\n\r\n\r\nself.clearButtons()\r\n\r\nself.createButton({\r\n    label=\"Draw\",\r\n    click_function=\"drawCard\",\r\n    function_owner=self,\r\n    position={0,0.6,0.5},\r\n    rotation={0,180,0},\r\n    width=1200,\r\n    height=500,\r\n    font_size=250\r\n})\r\n\r\nself.createButton({\r\n    label=\"Shuffle\",\r\n    click_function=\"shuffleDeck\",\r\n    function_owner=self,\r\n    position={0,0.6,-0.5},\r\n    rotation={0,180,0},\r\n    width=1200,\r\n    height=500,\r\n    font_size=250\r\n})\r\n\r\n\r\nend\r\n\r\nfunction getDeck()\r\nreturn getObjectFromGUID(deckGUID)\r\nend\r\n\r\nfunction drawCard()\r\n\r\n\r\nlocal deck = getDeck()\r\nif not deck then return end\r\n\r\nlocal pos = self.getPosition() + Vector(10,2,0)\r\n\r\nif deck.tag == \"Deck\" then\r\n\r\n    deck.takeObject({\r\n        position = pos,\r\n        rotation = {0,180,0}\r\n    })\r\n\r\nelseif deck.tag == \"Card\" then\r\n\r\n    deck.setPositionSmooth(pos)\r\n    deck.setRotationSmooth({0,180,0})\r\n\r\nend\r\n\r\n\r\nend\r\n\r\nfunction shuffleDeck()\r\n\r\n\r\nlocal deck = getDeck()\r\n\r\nif deck and deck.tag == \"Deck\" then\r\n    deck.shuffle()\r\nend\r\n\r\n\r\nend\r\n",
+  "LuaScriptState": "",
+  "XmlUI": ""
+}
